@@ -1,2 +1,1 @@
-# shudja.github.io
-A blog on experimentation.
+# A blog on experimentation.
