@@ -3,6 +3,4 @@ layout: home
 title: "Home"
 ---
 
-Welcome to my website.
-
-I am an experimental economist interested in learning, experimentation, and bandit problems.
+This blog discusses some of my research and how it relates to both (i) the broader economics literature and (ii) everyday decision making.
