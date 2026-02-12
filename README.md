@@ -1,3 +1,3 @@
-# A Blog on Experimentation.
+# A Blog on Experimentation
 
-In this blog, I will discuss
+This blog discusses some of my research papers and how they relate to both (i) the broader economics literature and (ii) everyday decision making.
