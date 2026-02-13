@@ -34,6 +34,10 @@
   transition: opacity 0.2s ease;
 }
 
+.site-header {
+  background: linear-gradient(90deg, #000 0%, #111 100%);
+}
+
 /* Hover effect */
 .site-nav .page-link:hover {
   opacity: 0.7;
