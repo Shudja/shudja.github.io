@@ -3,43 +3,56 @@
 
 @import "minima";
 
+/* =========================
+   Header (muted, low-contrast)
+   ========================= */
+
 /* Header container */
 .site-header {
+  background: #1e1e1e !important;          /* softer than #111 */
   border: none;
-  padding: 20px 0;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
-  background: #111 !important;
+  padding: 18px 0;
+  box-shadow: none;                         /* reduce harshness */
 }
 
-/* Center content and control width */
-.wrapper {
+/* Keep header content centered and not too wide */
+.site-header .wrapper {
   max-width: 1000px;
 }
 
 /* Site title */
 .site-title,
 .site-title:visited {
-  color: #fff !important;
-  font-weight: 800;
-  font-size: 1.6rem;
-  letter-spacing: 1px;
+  color: #e6e6e6 !important;               /* soft white */
+  font-weight: 750;
+  font-size: 1.5rem;
+  letter-spacing: 0.6px;
   text-transform: uppercase;
 }
 
-/* Navigation links */
+/* Nav links */
 .site-nav .page-link {
-  color: #fff !important;
+  color: #cfcfcf !important;               /* muted gray */
   font-weight: 500;
-  margin-left: 20px;
-  transition: opacity 0.2s ease;
+  margin-left: 18px;
+  transition: color 0.2s ease, opacity 0.2s ease;
 }
+
+/* Hover effect (subtle) */
+.site-nav .page-link:hover {
+  color: #f2f2f2 !important;
+  opacity: 0.9;
+}
+
+/* Optional: slightly soften the hamburger icon on mobile */
+.site-nav .menu-icon svg path {
+  fill: #cfcfcf;
+}
+
+/* =========================
+   Footer
+   ========================= */
 
 .site-footer {
   display: none;
-}
-
-
-/* Hover effect */
-.site-nav .page-link:hover {
-  opacity: 0.7;
 }
