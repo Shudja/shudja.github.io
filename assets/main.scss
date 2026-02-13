@@ -1,0 +1,23 @@
+---
+---
+
+@import "minima";
+
+/* Make header black */
+.site-header {
+  background-color: #000;
+  border-top: none;
+  border-bottom: none;
+}
+
+/* Make title white */
+.site-title {
+  color: #fff !important;
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+/* Make nav links white */
+.site-nav .page-link {
+  color: #fff !important;
+}
