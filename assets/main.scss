@@ -3,21 +3,21 @@
 
 @import "minima";
 
-/* Make header black */
+/* Black header bar */
 .site-header {
-  background-color: #000;
-  border-top: none;
-  border-bottom: none;
+  background: #000;
+  border-top: 0;
+  border-bottom: 0;
 }
 
-/* Make title white */
-.site-title {
+/* White site title */
+.site-title,
+.site-title:visited {
   color: #fff !important;
   font-weight: 700;
-  font-size: 2rem;
 }
 
-/* Make nav links white */
+/* White nav links */
 .site-nav .page-link {
   color: #fff !important;
 }
