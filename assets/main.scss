@@ -5,10 +5,11 @@
 
 /* Header container */
 .site-header {
-  background: #000;
+  // background: #000;
   border: none;
   padding: 20px 0;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  background: linear-gradient(90deg, #000 0%, #111 100%);
 }
 
 /* Center content and control width */
@@ -34,9 +35,7 @@
   transition: opacity 0.2s ease;
 }
 
-.site-header {
-  background: linear-gradient(90deg, #000 0%, #111 100%);
-}
+
 
 /* Hover effect */
 .site-nav .page-link:hover {
