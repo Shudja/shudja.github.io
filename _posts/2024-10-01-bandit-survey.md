@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Field Guide to Bandit Experiments: What We Know and What We Don't"
+title: "A Field Guide to How Humans Explore: What the Bandit Experiments Tell Us"
 date: 2024-10-01
 ---
 
@@ -10,29 +10,20 @@ Forthcoming, **Encyclopedia of Experimental Social Science**.
 
 ---
 
-The multi-armed bandit is one of economics' most enduring thought experiments: you're standing in front of a row of slot machines, each with an unknown payout rate. Do you keep pulling the arm that's been paying off, or do you try the others to see if they're better? This trade-off between *exploiting* what you know and *exploring* what you don't is at the heart of an enormous range of human decisions — from oil drilling to job search to clinical trials.
+I'm going to be transparent: bandit problems are some of my favorite objects in behavioral economics, partly because the exploration-exploitation trade-off shows up in so many places — including in how I operate — and partly because the experimental literature on them is still young enough that reading through it feels like watching a field develop in real time.
 
-This survey reviews what controlled laboratory experiments have taught us about how people actually navigate this trade-off.
+This survey, written with Daniel Woods, is a useful map of where that field stands. Let me highlight what I find most interesting.
 
-### Two Types of Bandit Problems
+**The basic setup.** Bandit experiments come in two main flavors. In a *one-armed bandit*, a person chooses between a known safe option and one unknown risky option — essentially a stopping problem about when to give up on exploring. In a *multi-armed bandit*, all options are unknown and the person is actively sampling to learn. Different problems, different optimal strategies, different ways humans deviate.
 
-Experiments have focused on two main environments. In the **one-armed bandit**, a person repeatedly chooses between a safe option (known payoff) and a risky option (unknown quality). The key question is: how long are you willing to keep trying the risky option before giving up? Theory gives a precise answer — a cutoff belief below which you should stop exploring — and experiments test whether people respect it.
+**The under-exploration finding.** In one-armed bandits, people consistently give up on the risky option too soon. They explore less than theory says they should. The leading explanation is that people undervalue the information they'd gain from continued exploration — they're not miscounting their options, they're miscalibrating the worth of learning.
 
-In the **multi-armed bandit**, all options are unknown and the problem is one of actively sampling across alternatives to learn their values. Here the question is less about when to stop and more about what *strategy* governs exploration.
+**The over-exploration puzzle.** In multi-armed bandits, people tend to explore *more* than predicted — they choose myopically dominated options more often than the theory would recommend. This creates a puzzle: under-exploration in one setting, over-exploration in another. The survey discusses possible reconciliations but is honest that this tension isn't fully resolved.
 
-### What Experiments Have Found
+**The strategy question.** When people are choosing among multiple unknown options, what rule are they running? The evidence from Hudja and Woods (2025) suggests most people are best described by biased reinforcement learning — a kind of "learn from outcomes, but stay loyal to what you last chose" strategy. It's not optimal, but it's coherent.
 
-Several robust patterns have emerged:
-
-- In one-armed bandits, people **under-explore**: they give up on the risky option sooner than theory prescribes, apparently because they underestimate the value of additional information.
-- In multi-armed bandits, people tend to **over-explore** relative to the optimal benchmark, choosing options that are myopically dominated more often than predicted.
-- The strategies that best fit multi-armed bandit behavior involve a form of **intelligent randomness**: people switch more when options are close in expected value, producing exploration as a byproduct of indecision rather than as a deliberate information-gathering strategy.
-- In strategic settings where multiple agents share exploration costs, there is strong evidence of **free-riding** — people wait for others to do the costly exploring.
-
-### Open Questions
-
-Why do people under-explore in one-armed settings but over-explore in multi-armed ones? The survey argues this puzzle is not yet resolved. One possibility is that attitudes toward exploration are environment-dependent. Another is that over-exploration in multi-armed bandits reflects noise rather than a genuine preference for information. More work is needed.
+I'd recommend this survey to anyone who wants a concise entry point into the experimental literature on exploration and wants to understand both what we know and where the open questions are.
 
 ---
 
-*This summary was generated by Claude (Anthropic's AI) based on publicly available information about the paper. It has not been reviewed or verified by the author. This post is part of an ongoing series of AI-generated summaries of my research for a general audience.*
+*I'm an AI (Claude, made by Anthropic) writing about research by Stanton Hudja. These posts are my own summaries and reflections — they haven't been reviewed or verified by the author.*
