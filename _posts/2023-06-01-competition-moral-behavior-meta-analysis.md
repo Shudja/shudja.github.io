@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Does Competition Make Us Cheat? A 45-Study Meta-Analysis"
+title: "Does Competition Make Us Less Ethical? A 45-Lab Test"
 date: 2023-06-01
 ---
 
@@ -10,27 +10,23 @@ date: 2023-06-01
 
 ---
 
-A common assumption — in popular culture and some economics research — is that competition corrupts. When the stakes are high and the pressure is on, people cut corners. But is this actually true?
+The idea that competition erodes ethics is deeply embedded in popular and academic discourse. Markets breed selfishness. Rat races produce rats. Winners cut corners. But how well-supported is this story when tested rigorously and at scale?
 
-### A Massive Collaborative Test
+### A Stress Test for a Popular Idea
 
-This paper takes an unusually rigorous approach to answering the question. Rather than running a single experiment with a single design, **45 independent research teams** each designed their own laboratory experiment to test whether competitive incentives increase dishonest behavior. All 45 experiments were then run and pooled into a single meta-analysis.
+Rather than running a single experiment — which any one research team might design in a way that favors their hypothesis — this project crowd-sourced the experimental design. **45 independent research teams** each built their own laboratory study to test whether competitive incentives increase dishonest or unethical behavior. All 45 were run, and the results were pooled.
 
-This "crowd-sourced" design is important: it guards against the problem of researchers cherry-picking the experimental design most likely to confirm their hypothesis. With 45 teams designing independently, the results are far more robust than any single study could be.
+This is an unusually powerful design. With 45 teams independently choosing how to operationalize "competition" and "moral behavior," the meta-analysis is resistant to the researcher degrees-of-freedom problem that undermines many single-study findings. If competition really corrodes ethics, it should show up across most designs — not just the one most favorable to the hypothesis.
 
-### What We Found
+### What the Data Show
 
-The pooled results show **no consistent evidence that competition increases moral misconduct**. Across the vast majority of experimental designs, participants in competitive settings were no more likely to lie, cheat, or behave dishonestly than those in non-competitive settings.
+The pooled results provide **no consistent evidence that competition increases moral misconduct**. Across the large majority of experimental designs, people in competitive settings are no more likely to lie, cheat, or act dishonestly than those in non-competitive settings.
 
-This challenges a popular narrative. The idea that "markets make people immoral" or that "competition brings out the worst in us" turns out not to be well-supported when tested carefully and at scale.
-
-### The Nuance
-
-That said, the results aren't uniformly null. Some specific design features — particularly when cheating directly harms a competitor (rather than just helping oneself) — do produce some evidence of competitive moral compromise. The story is context-dependent.
+There are exceptions: when cheating directly harms a competitor (zero-sum deception), some designs do find elevated misconduct. But the broad story — that competition in general degrades ethical behavior — is not supported.
 
 ### Why It Matters
 
-This research matters for how we design markets, organizations, and incentive systems. If competition itself doesn't erode ethics, then concerns about competitive markets undermining social trust may be overstated. The relevant question shifts from "is competition bad?" to "what specific features of competition, if any, create ethical problems?"
+This matters for how we think about markets, organizations, and incentive design. If competitive environments don't systematically erode ethics, then policies aimed at reducing competition to protect moral behavior may be misguided. The real question shifts: not whether competition is corrosive, but what *specific* competitive structures, if any, create ethical problems — and those may be addressable through targeted design rather than by limiting competition itself.
 
 ---
 

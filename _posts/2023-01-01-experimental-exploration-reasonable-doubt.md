@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beyond a Reasonable Doubt: What Does That Actually Mean?"
+title: "Beyond a Reasonable Doubt: Do Jurors Actually Agree on What That Means?"
 date: 2023-01-01
 ---
 
@@ -10,25 +10,23 @@ date: 2023-01-01
 
 ---
 
-"Beyond a reasonable doubt" is one of the most consequential phrases in the legal system. It's the standard that must be met to convict someone of a crime. But what does it actually mean — and do jurors interpret it consistently?
+"Beyond a reasonable doubt" is one of the most consequential phrases in the legal system. It is the standard that must be crossed before a jury can convict someone of a crime. But American courts deliberately avoid defining it with a number. Judges are instructed not to tell jurors "convict if you're 90% sure" — the assumption is that reasonable people share a common intuition about what the standard means.
 
-### The Problem
-
-The legal standard of reasonable doubt is deliberately left undefined in most U.S. courtrooms. Judges are instructed *not* to give jurors a numerical probability threshold. The assumption is that jurors share a common intuition about what "reasonable" means. But do they?
+This paper tests that assumption.
 
 ### The Experiment
 
-This paper uses a laboratory experiment to elicit people's implicit threshold for reasonable doubt. Participants played the role of jurors in stylized cases where the probability of guilt was varied systematically. By observing when people switch from "not guilty" to "guilty" verdicts, we can back out each person's implicit reasonable doubt threshold — the probability of guilt above which they're willing to convict.
+Participants played the role of jurors in stylized cases where the probability of the defendant's guilt was varied systematically across trials. By observing the exact probability at which each subject switches from "not guilty" to "guilty," we can recover their implicit reasonable doubt threshold — the personal standard they're actually applying.
 
 ### What We Found
 
-There is **enormous heterogeneity** in how people interpret reasonable doubt. Some participants require near-certainty (95%+ probability of guilt) before they'll convict. Others convict at probabilities as low as 50–60%. The average threshold sits well below what most legal scholars assume.
+There is **massive heterogeneity** in how people interpret reasonable doubt. Some subjects require near-certainty — above 90% probability of guilt — before they will convict. Others convict at probabilities as low as 50–60%. The range across subjects is enormous, and the average threshold sits well below what legal scholars typically assume the standard to require.
 
-This isn't just an academic curiosity. If jurors in the same trial have very different internal thresholds, verdicts become more like a coin flip than a reliable determination of guilt. The composition of the jury matters enormously — not just because of biases, but because people genuinely disagree on what "reasonable" means.
+This isn't just academic. In a real trial, twelve jurors may share the same evidence and still hold wildly different internal standards for conviction. The verdict becomes partly a function of which particular people ended up in the jury box — a form of outcome variability that the legal system's current design does little to address.
 
 ### Why It Matters
 
-These findings have implications for how we evaluate the reliability of jury verdicts, how we design jury instructions, and whether numerical guidance (like telling jurors to convict only if they're 90% sure) might actually improve consistency. The law avoids numbers — but the experiment suggests that leaving the standard vague creates systematic variation that undermines the goal of equal justice.
+These findings raise hard questions: Should jury instructions include explicit probability guidance? Would numerical standards improve consistency or introduce new problems? If people's thresholds are context-dependent — shifting based on crime type, defendant characteristics, or case framing — then the verbal standard may be doing less work than the legal system assumes. The experiment provides a controlled environment to study these questions rigorously.
 
 ---
 

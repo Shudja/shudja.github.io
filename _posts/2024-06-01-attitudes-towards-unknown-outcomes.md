@@ -9,29 +9,29 @@ Working Paper, 2024. Available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm
 
 ---
 
-Most of economics assumes we can assign probabilities to uncertain events. But what happens when we genuinely don't know the odds?
+Most economic models assume that uncertainty comes in one of two flavors. **Risk** is when you know the probabilities — a fair coin, a roulette wheel, a medical procedure with a well-documented success rate. **Ambiguity** (or Knightian uncertainty) is when you don't know the probabilities — a new business venture, a novel drug, a geopolitical event with no historical precedent.
 
-This is the distinction between **risk** (unknown outcomes with known probabilities) and **ambiguity** (unknown outcomes with unknown probabilities). You know the odds of a coin flip. You don't know the odds that a new business venture will succeed.
-
-### The Question
-
-Standard theories of ambiguity assume that how much you dislike not knowing the odds is a stable personal characteristic — something like risk aversion, but for uncertainty itself. This paper asks a more precise question: is your attitude towards an unknown outcome **independent of the rest of the decision problem**, or does it shift depending on context?
+Decades of research have established that people are often *ambiguity averse*: they prefer known odds to unknown ones, even when the expected value is the same. But this paper asks a more precise question: is your aversion to unknown outcomes a fixed, stable trait — or does it shift depending on what else is at stake in the decision?
 
 ### The Approach
 
-Rather than just asking people to choose between gambles, this paper uses an **elicitation approach** — a structured method to directly measure how individuals value outcomes when probabilities are unknown, and then test whether those valuations remain consistent across different decision contexts.
+Rather than observing choices and inferring preferences, this paper uses a direct **elicitation mechanism** to measure how individuals value options with fully unknown outcomes, and then tests whether those valuations remain stable across different decision contexts.
+
+The key manipulation is what surrounds the unknown option: the structure of the rest of the decision problem, what the safe alternative looks like, and how the uncertain option is framed.
 
 ### What We Find
 
-People's attitudes towards unknown outcomes are **not fully separable** from the broader decision environment. The same person may appear more or less averse to ambiguity depending on what else is at stake in the decision. This has significant implications for how we model ambiguity in economic settings.
+Attitudes toward unknown outcomes are **not context-independent**. The same person can appear more or less averse to unknown outcomes depending on what else is on offer in the decision. This context-dependence is systematic — not random noise — suggesting that attitudes toward the unknown are shaped by the broader decision environment rather than being a fixed psychological trait.
 
-### The Everyday Takeaway
+### The Everyday Version
 
-Think about how your appetite for uncertainty shifts based on circumstances. You might be comfortable not knowing the odds of a small investment working out, but feel very differently about the same level of uncertainty when it involves your health or your job. This paper provides experimental evidence that such context-dependence is real and systematic — not just a quirk of individual personality.
+Think about how you feel about a completely unknown restaurant. Your enthusiasm might depend entirely on context: if the only alternative is your usual mediocre standby, the unknown place sounds exciting. If the alternative is your all-time favorite, the unknown place sounds risky. Same restaurant, different frame, different attitude toward the unknown.
+
+This paper documents that this context-sensitivity is real, systematic, and has implications for how we model decision-making under genuine uncertainty.
 
 ### Why It Matters
 
-Models that treat ambiguity attitudes as fixed may mispredict behavior in high-stakes or complex environments. Getting the model right matters for financial regulation, insurance design, and any policy domain where people must make decisions under genuine uncertainty.
+Models that treat ambiguity aversion as a fixed individual parameter may systematically mispredict behavior in complex, real-world settings where decision contexts vary. Getting the model right matters for financial regulation, insurance pricing, and any policy domain where people must choose under genuine uncertainty.
 
 ---
 

@@ -10,23 +10,25 @@ date: 2025-01-01
 
 ---
 
-When you're competing to find the best strategy — whether in a sales contest, a research race, or a startup ecosystem — does it help to know how everyone else is doing?
+When you're competing to find the best strategy — in a sales contest, a research race, or a startup ecosystem — does knowing how everyone else is doing change how you search?
 
-This paper uses a laboratory experiment to study **sampling competitions**: settings where players must gather information by trying different options, and the winner is whoever finds the best outcome. Think of it like a treasure hunt where you have to dig in multiple spots before you find gold, and someone is posting a live scoreboard showing everyone's current best find.
+This paper uses a laboratory experiment to study **sampling competitions**: settings where contestants must gather information by trying different options, and the winner is whoever discovers the highest payoff. Think of it as a treasure hunt where you sample locations one at a time, and someone is posting a live scoreboard showing everyone's current best find.
 
-### What We Did
+### The Setup
 
-We ran controlled experiments where participants competed to find high payoffs by sampling from unknown distributions. In some treatments, players could see a public leaderboard showing competitors' current best scores in real time. In others, they could not.
+Participants competed to find high payoffs by sampling from unknown distributions. In some treatments, players could see a public leaderboard showing competitors' current best scores in real time. In others, they could not.
+
+The leaderboard creates a tension: it provides information about where you stand, but it also introduces social comparison that may distort search behavior away from what's individually or collectively optimal.
 
 ### What We Found
 
-Public leaderboard feedback significantly changes how people explore. When players can see that they're behind, they tend to **sample more aggressively** — taking bigger risks in hopes of catching up. When they're ahead, they tend to **coast**, sampling less. This is rational in theory (it mirrors optimal stopping behavior under competition), but the experiment reveals that people respond to relative standing even more strongly than standard models predict.
+Public leaderboard feedback significantly changes how people explore. When players see they are **behind**, they sample more aggressively — taking riskier draws in hopes of catching up. When they are **ahead**, they pull back and sample less, protecting their lead.
 
-The result has a clean everyday analogy: think about how differently you study for an exam when you can see your classmates' scores versus when you can't. Knowing you're in last place makes you hustle; knowing you're comfortably ahead makes you relax.
+This pattern is qualitatively rational: game theory predicts that trailing contestants should gamble more and leaders should play conservatively. But subjects respond to relative standing even more strongly than standard models predict, and the behavioral response generates predictable inefficiencies: leaders under-explore at exactly the moments when further discovery would be most socially valuable.
 
 ### Why It Matters
 
-Firms and policymakers often design competitions — R&D races, innovation prizes, sales tournaments — with little thought about what information to reveal. This research suggests that **transparency about relative standing is a powerful lever**: it can accelerate exploration when competition is tight but may reduce it when gaps are large. The design of information disclosure matters as much as the prize itself.
+Firms and policymakers routinely design competitions — R&D races, innovation prizes, sales tournaments — with little thought about what information to reveal to participants. This research shows that **information disclosure is a powerful design variable**: a leaderboard doesn't just report outcomes, it actively reshapes search behavior. The same prize structure can produce very different aggregate outcomes depending on whether contestants know where they stand. Designers should treat transparency as a lever, not just a feature.
 
 ---
 

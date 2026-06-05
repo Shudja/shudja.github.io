@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Does Group Size Change How We Innovate? A Lab Study of Innovation Contests"
+title: "Does Group Size Change How Much We Explore? A Lab Study of Innovation Contests"
 date: 2021-01-01
 ---
 
@@ -9,27 +9,25 @@ date: 2021-01-01
 
 ---
 
-Innovation contests are everywhere: hackathons, prize competitions, R&D races, drug development tournaments. Firms and governments use them to spur discovery. But a basic design question often goes unexamined: **does the number of competitors change how much people experiment?**
+Imagine a prize competition: whoever discovers the best new solution wins a cash reward. Should the number of competitors change how hard each person searches? Or should rational contestants focus on their own costs and opportunities, ignoring how crowded the field is?
 
-### The Theory
+Standard theory offers a clean answer: **group size shouldn't matter**. If you're choosing how much to experiment, you should focus on whether the expected value of another attempt exceeds its cost — and that calculation doesn't depend on how many others are also trying. This is the *invariance* result.
 
-In theory, the answer might be no. If you're trying to maximize your chance of finding a breakthrough, your optimal strategy depends on your own costs and the distribution of possible discoveries — not on how many other people are searching. This **invariance** result is clean and elegant.
+This paper tests that prediction directly.
 
-But it requires assumptions about how rational and strategically sophisticated participants are. In practice, people might explore more aggressively when they know many others are searching (to keep up), or less aggressively (if they think someone else will find it anyway — a form of free-riding).
+### The Setup
 
-### The Experiment
-
-This paper tests the invariance prediction directly in the lab. Participants engaged in an innovation contest where they could sample from uncertain options in hopes of finding a high payoff. Contest group sizes were varied experimentally.
+Participants in a laboratory experiment engaged in an innovation contest modeled as a one-armed bandit: they could repeatedly sample an uncertain option in hopes of obtaining a high payoff, at a cost per attempt. The number of contestants competing for the same prize was varied across treatments.
 
 ### What We Found
 
-The invariance prediction does *not* hold. **Group size matters.** Participants in larger contests explored differently than those in smaller ones — specifically, increasing competition led to changes in sampling behavior that the standard model does not predict.
+The invariance prediction fails. **Larger contests produce more exploration** — contestants in bigger groups sample more than those in smaller groups, even when the individual incentives are held constant. This departure from standard theory shows up consistently across the data.
 
-This has practical implications. If you want to maximize the probability that *someone* in a contest finds a breakthrough, you can't just increase the prize and the number of contestants and expect the math to work out as theory predicts. The behavioral response to group size needs to be factored in.
+The finding suggests that participants respond to the social context of competition in ways the model doesn't anticipate: perhaps competing against more people increases perceived urgency, or perhaps it changes beliefs about how much others are searching.
 
 ### Why It Matters
 
-Innovation policy is often built on theoretical models that assume rational, independent search. This research is a reality check: human contestants respond to social context in ways that alter aggregate discovery rates. Designing better innovation contests requires accounting for these behavioral effects.
+Innovation contests are a widely-used policy tool — from government R&D prizes to corporate hackathons to patent races. If the number of contestants changes individual exploration behavior, then the total amount of innovation in a contest is not simply a linear function of how many people you recruit. Behavioral responses to group size need to be built into the design of these competitions.
 
 ---
 
